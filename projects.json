@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Seniors Support Services",
+        "description": "an app that helps seniors and thier caregivers to track care agencies",
+        "live": "https://senior-support-services.herokuapp.com/",
+        "git": "https://github.com/EHollingerFllStk/Seniors",
+        "skills": ["Python", "Django", "PostgreSQL", "Django Authentication/Authorization", "Materialize", "jQuery", "Javascript", "HTML", "CSS"]
+    },
+    {
+        "name": "Vibe Voyage",
+        "description": "an app to organize your life and keep your mind in peace!",
+        "live": "https://vibe-voyage.netlify.app/",
+        "git": "https://github.com/EHollingerFllStk/VibeVoyage-frontend",
+        "skills": ["React", "Express", "Video embedding", "Javascript", "HTML", "CSS"]
+    },
+    {
+        "name": "Essential Oils and Recipes Catalog",
+        "description": "an app that enables users to catalog essential oils and essential oil recipes",
+        "live": "https://essoils.herokuapp.com/",
+        "git": "https://github.com/EHollingerFllStk/Unit2Project-EssentialOils",
+        "skills": ["Node.js, Express, MongoDB, Postman, JavaScript, HTML, CSS"]
+    },
+    {
+        "name": "Superheroes and Villains",
+        "description": "a fun website to search for your favorite superhero or villain",
+        "live": "https://heroes-4pcn7a9kc-hollingere15-gmailcom.vercel.app/",
+        "git": "https://github.com/EHollingerFllStk/Super-Heroes-and-Villains",
+        "skills": ["Javascript, AJAX, HTML, CSS"]
+    }
+]
