@@ -1,5 +1,12 @@
 [
     {
+        "name": "Plantivity - GA Spring Hackathon 2023",
+        "description": "an app designed in a 4 day hackathon, by SEI and UX/UI teams, that helps users balance the top priorities in thier lives by tending thier virtual garden",
+        "live": "https://plantivity.netlify.app/",
+        "git": "https://github.com/EHollingerFllStk/team6-hackathon-fe",
+        "skills": ["React", "Express", "PostgreSQL", "Django Authentication/Node.js", "MongoDB and Mongoose", "JWT authorization", "Trello", "Figma"]
+    },
+    {
         "name": "Seniors Support Services",
         "description": "an app that helps seniors and thier caregivers to track care agencies",
         "live": "https://senior-support-services.herokuapp.com/",
